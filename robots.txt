@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-zzc9q7.aksesklikme88rtp.com/sitemap.xml
